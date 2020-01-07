@@ -1,0 +1,6 @@
+name: Pets Owners
+description: Creates a page with form "Pets owners"
+package: Custom
+
+type: module
+core: 8.x
